@@ -1,0 +1,8 @@
+name: FastGM
+main: me.ppark.main.Main
+version: 1.0
+api-version: 1.17
+commands:
+  gm:
+    description: Change Me(or Other)'s GameMode Faster than Before!
+    usage: /gm [0,1,2,3] [Player]
